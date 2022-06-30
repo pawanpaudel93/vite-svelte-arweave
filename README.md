@@ -1,5 +1,7 @@
 # Svelte + Vite
 
+Arweave Devnet Deployed URL: https://arweave.dev/wDokUeraWWrveEFv3Gp7LA4c4cWbRiy1-tuw9V__sJA
+
 This template should help get you started developing with Svelte in Vite.
 
 ## Recommended IDE Setup

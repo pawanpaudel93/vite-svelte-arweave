@@ -2,13 +2,13 @@
 "manifest": "arweave/paths",
 "version": "0.1.0",
 "paths": {
-"favicon.ico":{"id":"c17Wb9LbXVQIa9gkAD3fCOfqUGEdMZlFsBIswCBLNd8"},
-"assets/svelte.d72399d3.png":{"id":"eBhC9Aa-g9uF183fTSTULyc0anXVeOr0TXxZoSJs7EE"},
-"assets/index.2a0a6c46.js":{"id":"boCNUfx6uEeGIkSqN9_NBw4c8PqbqoOO05ed88RS-Pw"},
-"assets/Name.11e84512.js":{"id":"SQblWimqS3ogqFtSLX_Tgj8wEvHvltgyunlM97vPYiI"},
-"assets/Wild.2c0d098a.js":{"id":"2kqjNO_cHaf_MVaBpe4oPYxXMMLOTFzkJnZVdwZAPe8"},
-"index.html":{"id":"sEUyBgs-yh6v9BrI2qvE24VunWJjCNIaTPdSPPSpJ2I"},
-"assets/index.138868f2.css":{"id":"3NdlWk3bEIZo5gEWAH6_HUSiWcsFanV_Zo47KvfSOfA"}
+"index.html":{"id":"WzwfdRZQRPKq6118WL8W46kj9JhcI8y9AxEuf4u0y3o"},
+"assets/index.138868f2.css":{"id":"HxVC8B8NcpnyHZ3BieGaPTNxF-MPl1Hg3yWrHIscYsw"},
+"assets/index.2a0a6c46.js":{"id":"gLCyMRt1wQKMs6YieIv4gP3GKoP-WUq2D_hy6i0CWbw"},
+"assets/Name.11e84512.js":{"id":"nJaNjFRaO-qHLmPzD44bjKAmHyrCo00Gzmx5hgiV7oU"},
+"favicon.ico":{"id":"1oxHBvwt5ofkrDr3gDnBGzX3hWVloExDHpQaWhixbVU"},
+"assets/Wild.2c0d098a.js":{"id":"fZiu2fAbheeej98R6yxfe9uJhT7UgDHlQMsOutTyqXw"},
+"assets/svelte.d72399d3.png":{"id":"NImCPm7m9NPCJb8QfgLvXlKEOOe_trtiSRcYjahZQlY"}
 },
 "index":{"path":"index.html"}
 }
